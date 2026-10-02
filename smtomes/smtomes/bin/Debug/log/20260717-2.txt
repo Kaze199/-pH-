@@ -1,0 +1,2 @@
+﻿[2026-07-17 17:22:14.789] 2轨推送MES内容：{"ApiType":"GsdMoveController","Parameters":[{"Value":{"Employee":"Administrator","Barcode":"","EquipMac":"JQ-JCY040-B_1","TestResult":1}}],"Method":"CameraCastPlateTopBot","Context":{"InvOrgId":1}}
+[2026-07-17 17:22:15.110] 2轨MES返回内容：{"ApiType":"GsdMoveController","Parameters":[{"Value":{"Employee":"Administrator","Barcode":"","EquipMac":"JQ-JCY040-B_1","TestResult":1}}],"Method":"CameraCastPlateTopBot","Context":{"InvOrgId":1},"id":101}

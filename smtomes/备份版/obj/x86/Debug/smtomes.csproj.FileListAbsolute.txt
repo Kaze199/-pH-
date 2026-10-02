@@ -1,0 +1,26 @@
+I:\重要资料\trae实例\双码上传MES\smtomes\smtomes\bin\Debug\smtomes.exe
+I:\重要资料\trae实例\双码上传MES\smtomes\smtomes\bin\Debug\smtomes.pdb
+I:\重要资料\trae实例\双码上传MES\smtomes\smtomes\obj\x86\Debug\smtomes.Form1.resources
+I:\重要资料\trae实例\双码上传MES\smtomes\smtomes\obj\x86\Debug\smtomes.Properties.Resources.resources
+I:\重要资料\trae实例\双码上传MES\smtomes\smtomes\obj\x86\Debug\smtomes.csproj.GenerateResource.Cache
+I:\重要资料\trae实例\双码上传MES\smtomes\smtomes\obj\x86\Debug\smtomes.exe
+I:\重要资料\trae实例\双码上传MES\smtomes\smtomes\obj\x86\Debug\smtomes.pdb
+I:\重要资料\trae实例\双码上传MES\smtomes\smtomes\bin\Debug\smtomes.exe.config
+D:\双码上传MES - 增加手动上传前-20260701\smtomes\smtomes\bin\Debug\smtomes.exe.config
+D:\双码上传MES - 增加手动上传前-20260701\smtomes\smtomes\bin\Debug\smtomes.exe
+D:\双码上传MES - 增加手动上传前-20260701\smtomes\smtomes\obj\x86\Debug\smtomes.csprojResolveAssemblyReference.cache
+D:\双码上传MES - 增加手动上传前-20260701\smtomes\smtomes\obj\x86\Debug\smtomes.Form1.resources
+D:\双码上传MES - 增加手动上传前-20260701\smtomes\smtomes\obj\x86\Debug\smtomes.Properties.Resources.resources
+D:\双码上传MES - 增加手动上传前-20260701\smtomes\smtomes\obj\x86\Debug\smtomes.csproj.GenerateResource.Cache
+D:\双码上传MES - 增加手动上传前-20260701\smtomes\smtomes\obj\x86\Debug\smtomes.exe
+D:\双码上传MES - 增加手动上传前-20260701\smtomes\smtomes\obj\x86\Debug\smtomes.pdb
+D:\双码上传MES - 增加手动上传前-20260701\smtomes\smtomes\bin\Debug\smtomes.pdb
+H:\重要资料\trae实例\双码上传MES(P版）\smtomes\smtomes\bin\Debug\smtomes.exe.config
+H:\重要资料\trae实例\双码上传MES(P版）\smtomes\smtomes\obj\x86\Debug\smtomes.exe
+H:\重要资料\trae实例\双码上传MES(P版）\smtomes\smtomes\obj\x86\Debug\smtomes.pdb
+H:\重要资料\trae实例\双码上传MES(P版）\smtomes\smtomes\bin\Debug\smtomes.exe
+H:\重要资料\trae实例\双码上传MES(P版）\smtomes\smtomes\bin\Debug\smtomes.pdb
+H:\重要资料\trae实例\双码上传MES(P版）\smtomes\smtomes\obj\x86\Debug\smtomes.csprojResolveAssemblyReference.cache
+H:\重要资料\trae实例\双码上传MES(P版）\smtomes\smtomes\obj\x86\Debug\smtomes.Form1.resources
+H:\重要资料\trae实例\双码上传MES(P版）\smtomes\smtomes\obj\x86\Debug\smtomes.Properties.Resources.resources
+H:\重要资料\trae实例\双码上传MES(P版）\smtomes\smtomes\obj\x86\Debug\smtomes.csproj.GenerateResource.Cache

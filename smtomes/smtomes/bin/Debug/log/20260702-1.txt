@@ -1,0 +1,6 @@
+﻿[2026-07-02 09:34:51.805] 1轨推送MES内容：{"ApiType":"GsdMoveController","Parameters":[{"Value":{"Employee":"Administrator","Barcode":"12","EquipMac":"JQ-JCY040-B_1","TestResult":1}}],"Method":"ReflowMove","Context":{"InvOrgId":1}}
+[2026-07-02 09:34:53.984] 1轨MES返回内容：{"ApiType":"GsdMoveController","Parameters":[{"Value":{"Employee":"Administrator","Barcode":"12","EquipMac":"JQ-JCY040-B_1","TestResult":1}}],"Method":"ReflowMove","Context":{"InvOrgId":1},"id":101}
+[2026-07-02 09:41:59.773] 1轨推送MES内容：{"ApiType":"GsdMoveController","Parameters":[{"Value":{"Employee":"Administrator","Barcode":"","EquipMac":"JQ-JCY040-B_1","TestResult":1}}],"Method":"ReflowMove","Context":{"InvOrgId":1}}
+[2026-07-02 09:42:01.271] 1轨MES返回内容：{"ApiType":"GsdMoveController","Parameters":[{"Value":{"Employee":"Administrator","Barcode":"","EquipMac":"JQ-JCY040-B_1","TestResult":1}}],"Method":"ReflowMove","Context":{"InvOrgId":1},"id":101}
+[2026-07-02 09:42:03.441] 1轨推送MES内容：{"ApiType":"GsdMoveController","Parameters":[{"Value":{"Employee":"Administrator","Barcode":"","EquipMac":"JQ-JCY040-B_1","TestResult":1}}],"Method":"ReflowMove","Context":{"InvOrgId":1}}
+[2026-07-02 09:42:03.922] 1轨MES返回内容：{"ApiType":"GsdMoveController","Parameters":[{"Value":{"Employee":"Administrator","Barcode":"","EquipMac":"JQ-JCY040-B_1","TestResult":1}}],"Method":"ReflowMove","Context":{"InvOrgId":1},"id":101}
